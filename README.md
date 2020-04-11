@@ -2,6 +2,6 @@
 HTML, CSS, and JavaScript. 
 
 Used key press events, click events, and sound files to create drumkit. 
-Test it out! go make ome music: https://haguillard.github.io/DrumKit-Website/
+Test it out! go make ome music: https://hauwaaguillard.github.io/DrumKit-Website/
 
 ![](images/drumkit.PNG)
